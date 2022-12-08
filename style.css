@@ -73,7 +73,7 @@ Hide it at the beginning.
 */
 section#gameover p {
    text-align: center;
-   font-size: 1rem;
+   font-size: 2rem;
    display: none;
 }
 
